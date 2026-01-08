@@ -54,7 +54,7 @@ Feel free to reach out to me at [gnam1819@gmai.com] for any inquiries or collabo
 
 ## ✅ What I’m Focused On
 
-- Building reliable CI/CD pipelines for AI / IoT / finance products
+- Building reliable CI/CD pipelines for finance products
 - Standardizing deployments with Helm + GitOps (ArgoCD)
 - Improving security scanning & quality gates in pipelines (Trivy, SonarQube)
 - Monitoring, alerting and operational excellence
