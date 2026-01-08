@@ -61,11 +61,10 @@ Feel free to reach out to me at [gnam1819@gmai.com] for any inquiries or collabo
 
 ---
 
----
-
 ## 🤝 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/gian-nam-10a7a9287
+- Email: gnam1819@gmail.com
 
 ---
 
