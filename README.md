@@ -13,10 +13,11 @@
 
 ## 📌 About Me
 
-- DevOps/Cloud Engineer with **3+ years** experience in building & operating infrastructure and CI/CD.
-- Strong with **Kubernetes, Jenkins, Terraform, ArgoCD, Docker, Nginx**, monitoring & observability.
-- Experienced in **on-prem → AWS** migration and running production-like UAT/DEV environments.
-- Comfortable with automation via **Shell scripting** and practical troubleshooting.
+My major role is Senior DevOps/Platfom in which I love to build internal platform solutions that help corporations to scale and maintain. With CS background and both Fullstack Dev and DevOps foundation. 
+
+I'm currently focused on developing the Infrastructure Engine, a project aimed at enhancing self-service capabilities for Infrastructure as Code (IaC).
+
+Feel free to reach out to me at [gnam1819@gmai.com] for any inquiries or collaborations.
 
 ---
 
