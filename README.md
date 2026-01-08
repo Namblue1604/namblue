@@ -13,7 +13,7 @@
 
 ## 📌 About Me
 
-My major role is Senior DevOps/Platfom in which I love to build internal platform solutions that help corporations to scale and maintain. With CS background and both Fullstack Dev and DevOps foundation. 
+My major role is Senior DevOps/Platfom in which I love to build internal platform solutions that help corporations to scale and maintain. With CS background and both Dev and Ops. 
 
 I'm currently focused on developing the Infrastructure Engine, a project aimed at enhancing self-service capabilities for Infrastructure as Code (IaC).
 
