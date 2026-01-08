@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="YOUR_WEBSITE">Website</a>
+  <a href="www.linkedin.com/in/gian-nam-10a7a9287">LinkedIn</a> •
 </p>
 
 ---
@@ -50,45 +48,11 @@
 
 ---
 
-## 🚀 Featured Projects
-
-> Replace the links below with your real repositories.
-
-- **K8s GitOps Deployment Templates**  
-  Helm chart + ArgoCD app templates for standard deployments (Deployment/Service/Ingress/HPA…)
-  → https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1
-
-- **CI/CD Pipeline for Microservices (Jenkins)**  
-  Multi-stage pipeline: build, test, scan (Trivy), quality (SonarQube), deploy
-  → https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2
-
-- **Observability Starter Kit**  
-  Prometheus + Grafana dashboards & alert rules for K8s workloads
-  → https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_3
-
-- **On-prem to AWS Migration Notes**  
-  Runbooks + infra docs + checklist for migration
-  → https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_4
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
-</p>
-
 ---
 
 ## 🤝 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
-- Website: YOUR_WEBSITE
+- LinkedIn: www.linkedin.com/in/gian-nam-10a7a9287
 
 ---
 
