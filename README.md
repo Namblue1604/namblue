@@ -1,6 +1,6 @@
 <!-- Profile README for YOUR_GITHUB_USERNAME -->
 
-<h1 align="center">Hi, I'm Giản Đình Nam 👋</h1>
+<h1 align="center">Hi, I'm Namblue 👋</h1>
 <p align="center">
   Middle DevOps/Platform 
 </p>
@@ -23,19 +23,31 @@
 ## 🧰 Tech Stack
 
 **Cloud**
-- AWS • GCP
+- AWS
+- GCP
 
 **CI/CD**
-- Jenkins • Git • SonarQube • Trivy
+- Jenkins
+- Git
+- SonarQube
+- Trivy
 
 **Containers & Orchestration**
-- Docker • Kubernetes • Helm • ArgoCD
+- Docker
+- Kubernetes
+- Helm
+- ArgoCD
 
 **Observability**
-- Prometheus • Grafana • ELK Stack
+- Prometheus
+- Grafana
+- ELK Stack
 
 **Infra / Network**
-- Terraform • Nginx • API Gateway (WSO2 AM / IS) • PostgreSQL
+- Terraform
+- Nginx
+- API Gateway (WSO2 AM / IS)
+- PostgreSQL
 
 ---
 
