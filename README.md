@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Giản Đình Nam 👋</h1>
 <p align="center">
-  DevOps / Cloud Engineer • Kubernetes • CI/CD • IaC
+  Middle DevOps/Platform 
 </p>
 
 <p align="center">
