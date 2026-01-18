@@ -51,6 +51,47 @@
     .exp-meta{color:#9aa4ad;font-size:14px}
     .exp-item ul{margin:10px 0 0 18px}
     .exp-item li{margin:8px 0;line-height:1.5}
+
+    /* Technical Skills Table */
+.skill-table{
+  display:flex;
+  flex-direction:column;
+  gap:14px;
+}
+
+.skill-row{
+  display:grid;
+  grid-template-columns:140px 1fr;
+  gap:16px;
+  padding:12px 0;
+  border-top:1px solid #1f2a37;
+}
+
+.skill-row:first-child{
+  border-top:none;
+  padding-top:0;
+}
+
+.skill-name{
+  font-weight:700;
+  color:#e6edf3;
+}
+
+.skill-desc{
+  color:#9aa4ad;
+  line-height:1.6;
+}
+
+/* Mobile responsive */
+@media (max-width:600px){
+  .skill-row{
+    grid-template-columns:1fr;
+    gap:6px;
+  }
+  .skill-name{
+    font-size:15px;
+  }
+}
     
   </style>
 </head>
@@ -101,15 +142,81 @@
     </div>
 
     <div class="card">
-      <h2>Tech Stack</h2>
-      <ul class="chips">
-        <li>AWS</li><li>GCP</li><li>Kubernetes</li><li>Docker</li><li>Helm</li>
-        <li>ArgoCD</li><li>Jenkins</li><li>Terraform</li>
-        <li>Nginx</li><li>Prometheus</li><li>Grafana</li><li>ELK</li>
-        <li>Python</li><li>Java Spring</li><li>linux</li>
-        <li>Gitops</li>
-      </ul>
+  <h2>Technical Skills</h2>
+
+  <div class="skill-table">
+    <div class="skill-row">
+      <div class="skill-name">Linux</div>
+      <div class="skill-desc">
+        Create and manage file and folder permissions; use Linux commands to monitor logs and trading processes.
+      </div>
     </div>
+
+    <div class="skill-row">
+      <div class="skill-name">CI/CD</div>
+      <div class="skill-desc">
+        Build CI/CD pipelines with Jenkins to build frontend projects and backend services, then deploy artifacts to target systems.
+      </div>
+    </div>
+
+    <div class="skill-row">
+      <div class="skill-name">Kubernetes</div>
+      <div class="skill-desc">
+        Automate application deployment and management in Kubernetes environments.
+      </div>
+    </div>
+
+    <div class="skill-row">
+      <div class="skill-name">Docker</div>
+      <div class="skill-desc">
+        Use Dockerfile and Docker Compose to build, deploy services, and manage Java containers on development VMs.
+      </div>
+    </div>
+
+    <div class="skill-row">
+      <div class="skill-name">Nginx</div>
+      <div class="skill-desc">
+        Configure and deploy Nginx web servers for WSO2 API Manager and WSO2 Identity Server.
+      </div>
+    </div>
+
+    <div class="skill-row">
+      <div class="skill-name">English</div>
+      <div class="skill-desc">
+        Worked with Korean customers using English for daily communication and technical coordination.
+      </div>
+    </div>
+
+    <div class="skill-row">
+      <div class="skill-name">AWS Cloud</div>
+      <div class="skill-desc">
+        Knowledge of AWS services to migrate UAT environments to AWS Cloud.
+      </div>
+    </div>
+
+    <div class="skill-row">
+      <div class="skill-name">Helm</div>
+      <div class="skill-desc">
+        Configure and deploy services on Kubernetes using Helm charts.
+      </div>
+    </div>
+
+    <div class="skill-row">
+      <div class="skill-name">IaC</div>
+      <div class="skill-desc">
+        Use Helm-based configurations to manage service environments as Infrastructure as Code.
+      </div>
+    </div>
+
+    <div class="skill-row">
+      <div class="skill-name">Python</div>
+      <div class="skill-desc">
+        Use Python scripts and keywords to support CI/CD pipeline automation.
+      </div>
+    </div>
+  </div>
+</div>
+
 
     <!-- Experience (from your CV screenshots) -->
     <div class="card">
